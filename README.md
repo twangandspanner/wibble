@@ -1,4 +1,4 @@
 # wibble
 Wibble when wobbly
 
-John smells.
+John is ok.
